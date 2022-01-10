@@ -1,0 +1,22 @@
+{
+  "name": "ghost-post",
+  "version": "1.0.0",
+  "description": "Update a ghost post using markdown from github and a github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam7/ghost-post.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam7/ghost-post/issues"
+  },
+  "homepage": "https://github.com/adam7/ghost-post#readme",
+  "dependencies": {
+    "@tryghost/admin-api": "^1.4.4"
+  }
+}
