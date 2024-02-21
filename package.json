@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/adam7/ghost-post#readme",
   "dependencies": {
-    "@tryghost/admin-api": "^1.4.4"
+    "@tryghost/admin-api": "^1.13.11"
   }
 }
